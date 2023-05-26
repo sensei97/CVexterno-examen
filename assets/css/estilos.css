@@ -1,0 +1,46 @@
+body{
+    background-color: black;
+    font-family: "Audiowide", sans-serif;
+}
+
+#Hero-Section {
+    background-image: url("../img/fondo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  #Hero-Section2 {
+    background-image: url("../img/moto.JPG");
+    background-repeat: no-repeat;
+    background-size:contain;
+    background-position: center;
+  }
+
+#Mis-trabajos{
+    font-style: italic;
+   
+}
+
+.foto{
+    height: 12.5em;
+    width: 12.5em;
+
+}
+
+.name{
+    text-align: center;
+    font-style: italic;
+}
+
+.info{
+    text-align: center;
+}
+
+.list{
+    text-align: start;
+}
+
+#firma{
+    background-image: url(../img/footer.jpg);
+}
+
