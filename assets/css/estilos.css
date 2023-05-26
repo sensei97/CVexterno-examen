@@ -28,7 +28,10 @@ body{
     text-align: start;
 }
 
-#firma{
-    background-image: url(../img/footer.jpg);
-}
+#footer {
+    background-image: url(../img/footer.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
 
