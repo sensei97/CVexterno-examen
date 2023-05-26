@@ -3,12 +3,6 @@ body{
     font-family: "Audiowide", sans-serif;
 }
 
-#Hero-Section {
-    background-image: url("../img/fondo.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-  }
-
   #Hero-Section2 {
     background-image: url("../img/moto.JPG");
     background-repeat: no-repeat;
@@ -19,12 +13,6 @@ body{
 #Mis-trabajos{
     font-style: italic;
    
-}
-
-.foto{
-    height: 12.5em;
-    width: 12.5em;
-
 }
 
 .name{
