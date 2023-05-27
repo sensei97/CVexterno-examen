@@ -29,7 +29,7 @@ body{
 }
 
 #footer {
-    background-image: url(../img/footer.png);
+    color: greenyellow;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
